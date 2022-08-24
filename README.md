@@ -8,7 +8,7 @@
 
 <h4 align="center">
 I'm a freelance front End Developer based in Nigeria 🙏, I am passionate about design, coding, and web technologies❤️. <br />
-	I love to create clean and dynamic user interfaces. I'd love to learn a lot network and grow as a developer while also supporting other open source projects.
+	I love to create clean and dynamic user interfaces. I'd love to learn a lot, network and grow as a developer while also supporting other open source projects.
 </h4>
 <br>
 
